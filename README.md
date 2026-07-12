@@ -58,10 +58,6 @@ AI-Portfolio-Generator/
 │   ├── index.html
 │   └── portfolio.html
 │
-├── static/
-│   ├── style.css
-│   └── images/
-│
 └── README.md
 ```
 
