@@ -19,6 +19,15 @@ An AI-powered portfolio website generator built with **Flask** and **Google Gemi
 * 📱 Responsive and clean user interface
 * ⚡ Instant portfolio generation using Google Gemini AI
 
+
+<img width="1636" height="882" alt="Screenshot 2026-07-14 221943" src="https://github.com/user-attachments/assets/f77a9309-0cf4-4bdf-8eea-03e6f61fb1cc" />
+
+<img width="1735" height="875" alt="Screenshot 2026-07-14 222046" src="https://github.com/user-attachments/assets/64e31439-4502-4731-be2f-b2869e71a411" />
+
+<img width="1800" height="815" alt="Screenshot 2026-07-14 222101" src="https://github.com/user-attachments/assets/782c4f56-e565-4495-b7bf-2a0664725ef9" />
+
+<img width="1628" height="791" alt="Screenshot 2026-07-14 222116" src="https://github.com/user-attachments/assets/41f0d09d-30f9-4f10-b72f-1c5ddc9509d4" />
+
 ---
 
 # 🛠️ Tech Stack
